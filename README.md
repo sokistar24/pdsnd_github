@@ -12,5 +12,6 @@ this project helps users explore details of bikeshare services in three major ci
 chicago, washington and new york city, bikeshare files in csv format
 
 ### Credits
-training from Udacity Advance scholarship team helped me built this project stackoverflow.
+training from Udacity Advance scholarship team helped me built this project stackoverflow,
+pandas documentaion
 
