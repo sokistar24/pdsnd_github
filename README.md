@@ -7,6 +7,7 @@ BIKESHARE PROJECT
 
 ### Description
 this project helps users explore details of bikeshare services in three major cities US cities **chicago** , **wahington** and **new york city**
+helps user track popular trips, start and end station , travel times etc.
 
 ### Files used
 chicago, washington and new york city, bikeshare files in csv format
