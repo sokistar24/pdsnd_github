@@ -210,7 +210,7 @@ def month_filter():
 
 
 # function to select day of the week filter
-def day_filter():
+def day_of_week_filter():
     """
     function to search data by day of the week  if user request
 
@@ -457,7 +457,7 @@ while search_on == 'y':
 
     # applying day of week filter
 
-    day = day_filter()
+    day = day_of_week_filter()
     print('city data loading ... : ')
     start_time = time.time()
     # calling the load function to load the city data based on day and month filter applied
